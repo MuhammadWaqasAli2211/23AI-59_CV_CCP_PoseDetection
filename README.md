@@ -1,11 +1,9 @@
-```markdown
 # Human Pose Estimation & Activity Classification Pipeline
 
 An end-to-end, real-time Computer Vision pipeline that extracts 2D human skeletal landmarks from raw video sequences, mitigates sensor noise and landmark jitter via temporal filtering, computes biomechanical joint kinematics, and classifies physical activities using an optimized rule-based decision tree.
 
 This repository contains the complete modular implementation, numerical backend, and evaluation dashboards developed for a **Complex Computing Problem (CCP)** in Computer Vision.
 
----
 
 ## 🚀 Key Features & Architecture
 
